@@ -1,0 +1,15 @@
+.addTodo{
+    margin-left: 25%;
+    margin-right: 25%; 
+    margin-bottom: 10px;
+    margin-top: 130px;
+}
+
+.textInput{
+    margin-right: 10px;
+    padding-right: 50px;
+}
+
+.submitBtn{
+    padding-right: 10px;
+}

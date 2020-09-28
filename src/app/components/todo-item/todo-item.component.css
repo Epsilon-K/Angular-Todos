@@ -1,0 +1,32 @@
+.checkBox{
+    position: absolute;
+    top: 25%;
+}
+
+.todoText{
+    position: absolute;
+    left: 5%;
+}
+
+.delBtn{
+    position: absolute;
+    top: 10%;
+    right: 1%;
+}
+
+.todo{
+    position: relative;
+    background: #ffffff54;
+    color: #000000;
+    padding: 10px;
+    padding-top: 10px;
+    border-bottom: 1px rgb(94, 94, 94) dotted;
+}
+
+.not-complete{
+    text-decoration: none;
+}
+
+.is-complete{
+    text-decoration: line-through;
+}
